@@ -48,6 +48,11 @@ Complete analysis of IMDB data answering the following questions:
 Real-time stream processing with the Wikimedia EventStreams API:
 
 - **Tracked Entities**: Christopher Nolan, The Godfather, Quentin Tarantino, Science Fiction, Academy Awards
+- **Fuzzy Matching with Levenshtein Distance**:
+  - Uses `python-Levenshtein` library for efficient string similarity
+  - Threshold set at **0.80** (80% similarity required for a match)
+  - Enables matching of page title variations (typos, formatting differences)
+  - Each matched event includes a `match_score` field (1.0 = exact match)
 - **Real-time Metrics Collection**:
   - Total edits per entity
   - Bot vs human edit classification
