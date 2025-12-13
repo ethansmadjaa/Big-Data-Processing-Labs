@@ -1,0 +1,52 @@
+{
+  "Christopher Nolan": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "The Godfather": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Quentin Tarantino": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Science Fiction": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Academy Awards": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  }
+}
