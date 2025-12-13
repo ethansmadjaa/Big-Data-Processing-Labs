@@ -1,13 +1,15 @@
 {
   "Christopher Nolan": {
-    "total_edits": 0,
+    "total_edits": 2,
     "bot_edits": 0,
-    "human_edits": 0,
-    "total_bytes_changed": 0,
-    "unique_users": [],
-    "unique_user_count": 0,
+    "human_edits": 2,
+    "total_bytes_changed": 274,
+    "unique_users": [
+      "GuardianH"
+    ],
+    "unique_user_count": 1,
     "alert_count": 0,
-    "last_edit": null
+    "last_edit": "2025-12-13T21:52:23.471Z"
   },
   "The Godfather": {
     "total_edits": 0,
@@ -40,6 +42,298 @@
     "last_edit": null
   },
   "Academy Awards": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Martin Scorsese": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Steven Spielberg": {
+    "total_edits": 1,
+    "bot_edits": 0,
+    "human_edits": 1,
+    "total_bytes_changed": 15,
+    "unique_users": [
+      "LRQ 98"
+    ],
+    "unique_user_count": 1,
+    "alert_count": 0,
+    "last_edit": "2025-12-13T22:14:18.257Z"
+  },
+  "Denis Villeneuve": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Greta Gerwig": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Barbie (film)": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Oppenheimer (film)": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Dune (2021 film)": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Dune: Part Two": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Avatar: The Way of Water": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Top Gun: Maverick": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Everything Everywhere All at Once": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "The Batman (film)": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Spider-Man: No Way Home": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Avengers: Endgame": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Parasite (2019 film)": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Joker (2019 film)": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "The Irishman": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "1917 (2019 film)": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Killers of the Flower Moon": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Poor Things (film)": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "The Fabelmans": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "T\u00e1r": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Blonde (2022 film)": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Elvis (2022 film)": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Black Panther: Wakanda Forever": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Guardians of the Galaxy Vol. 3": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Mission: Impossible \u2013 Dead Reckoning": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "The Super Mario Bros. Movie": {
+    "total_edits": 0,
+    "bot_edits": 0,
+    "human_edits": 0,
+    "total_bytes_changed": 0,
+    "unique_users": [],
+    "unique_user_count": 0,
+    "alert_count": 0,
+    "last_edit": null
+  },
+  "Wonka (film)": {
     "total_edits": 0,
     "bot_edits": 0,
     "human_edits": 0,
