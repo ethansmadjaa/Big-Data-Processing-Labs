@@ -3,53 +3,69 @@
     "total_edits": 2,
     "bot_edits": 0,
     "human_edits": 2,
-    "total_bytes_changed": 274,
+    "total_bytes_changed": 1360,
     "unique_users": [
-      "GuardianH"
+      "Sammyjankis88"
+    ],
+    "unique_user_count": 1,
+    "alert_count": 2,
+    "last_edit": "2025-12-16T07:30:26.631Z"
+  },
+  "The Godfather": {
+    "total_edits": 1,
+    "bot_edits": 0,
+    "human_edits": 1,
+    "total_bytes_changed": 12,
+    "unique_users": [
+      "ShyWo"
     ],
     "unique_user_count": 1,
     "alert_count": 0,
-    "last_edit": "2025-12-13T21:52:23.471Z"
-  },
-  "The Godfather": {
-    "total_edits": 0,
-    "bot_edits": 0,
-    "human_edits": 0,
-    "total_bytes_changed": 0,
-    "unique_users": [],
-    "unique_user_count": 0,
-    "alert_count": 0,
-    "last_edit": null
+    "last_edit": "2025-12-15T22:01:00.084Z"
   },
   "Quentin Tarantino": {
-    "total_edits": 0,
-    "bot_edits": 0,
-    "human_edits": 0,
-    "total_bytes_changed": 0,
-    "unique_users": [],
-    "unique_user_count": 0,
-    "alert_count": 0,
-    "last_edit": null
+    "total_edits": 12,
+    "bot_edits": 1,
+    "human_edits": 11,
+    "total_bytes_changed": 4124,
+    "unique_users": [
+      "Orpaul",
+      "Machete kills",
+      "PauliJC",
+      "~2025-41096-93",
+      "SeroBOT",
+      "Content",
+      "Samio\u011flu",
+      "28 av",
+      "Caio casimiro"
+    ],
+    "unique_user_count": 9,
+    "alert_count": 3,
+    "last_edit": "2025-12-16T14:55:12.785Z"
   },
   "Science Fiction": {
-    "total_edits": 0,
+    "total_edits": 1,
     "bot_edits": 0,
-    "human_edits": 0,
-    "total_bytes_changed": 0,
-    "unique_users": [],
-    "unique_user_count": 0,
+    "human_edits": 1,
+    "total_bytes_changed": 32,
+    "unique_users": [
+      "Slzbg"
+    ],
+    "unique_user_count": 1,
     "alert_count": 0,
-    "last_edit": null
+    "last_edit": "2025-12-15T21:18:28.433Z"
   },
   "Academy Awards": {
-    "total_edits": 0,
+    "total_edits": 2,
     "bot_edits": 0,
-    "human_edits": 0,
-    "total_bytes_changed": 0,
-    "unique_users": [],
-    "unique_user_count": 0,
-    "alert_count": 0,
-    "last_edit": null
+    "human_edits": 2,
+    "total_bytes_changed": 656,
+    "unique_users": [
+      "Mahagaja"
+    ],
+    "unique_user_count": 1,
+    "alert_count": 1,
+    "last_edit": "2025-12-15T21:39:23.164Z"
   },
   "Martin Scorsese": {
     "total_edits": 0,
@@ -65,13 +81,13 @@
     "total_edits": 1,
     "bot_edits": 0,
     "human_edits": 1,
-    "total_bytes_changed": 15,
+    "total_bytes_changed": 4,
     "unique_users": [
-      "LRQ 98"
+      "CeltBrowne"
     ],
     "unique_user_count": 1,
     "alert_count": 0,
-    "last_edit": "2025-12-13T22:14:18.257Z"
+    "last_edit": "2025-12-16T14:31:17.127Z"
   },
   "Denis Villeneuve": {
     "total_edits": 0,
@@ -84,24 +100,30 @@
     "last_edit": null
   },
   "Greta Gerwig": {
-    "total_edits": 0,
+    "total_edits": 2,
     "bot_edits": 0,
-    "human_edits": 0,
-    "total_bytes_changed": 0,
-    "unique_users": [],
-    "unique_user_count": 0,
+    "human_edits": 2,
+    "total_bytes_changed": 87,
+    "unique_users": [
+      "~2025-41016-08",
+      "Kline"
+    ],
+    "unique_user_count": 2,
     "alert_count": 0,
-    "last_edit": null
+    "last_edit": "2025-12-15T22:30:20.882Z"
   },
   "Barbie (film)": {
-    "total_edits": 0,
+    "total_edits": 3,
     "bot_edits": 0,
-    "human_edits": 0,
-    "total_bytes_changed": 0,
-    "unique_users": [],
-    "unique_user_count": 0,
-    "alert_count": 0,
-    "last_edit": null
+    "human_edits": 3,
+    "total_bytes_changed": 691,
+    "unique_users": [
+      "Null morpheme",
+      "Aspects"
+    ],
+    "unique_user_count": 2,
+    "alert_count": 1,
+    "last_edit": "2025-12-16T04:25:00.943Z"
   },
   "Oppenheimer (film)": {
     "total_edits": 0,
@@ -134,24 +156,28 @@
     "last_edit": null
   },
   "Avatar: The Way of Water": {
-    "total_edits": 0,
+    "total_edits": 1,
     "bot_edits": 0,
-    "human_edits": 0,
-    "total_bytes_changed": 0,
-    "unique_users": [],
-    "unique_user_count": 0,
+    "human_edits": 1,
+    "total_bytes_changed": 156,
+    "unique_users": [
+      "DavidTheJohnson"
+    ],
+    "unique_user_count": 1,
     "alert_count": 0,
-    "last_edit": null
+    "last_edit": "2025-12-16T14:38:07.154Z"
   },
   "Top Gun: Maverick": {
-    "total_edits": 0,
+    "total_edits": 1,
     "bot_edits": 0,
-    "human_edits": 0,
-    "total_bytes_changed": 0,
-    "unique_users": [],
-    "unique_user_count": 0,
+    "human_edits": 1,
+    "total_bytes_changed": 17,
+    "unique_users": [
+      "ErnestKrause"
+    ],
+    "unique_user_count": 1,
     "alert_count": 0,
-    "last_edit": null
+    "last_edit": "2025-12-15T20:03:24.883Z"
   },
   "Everything Everywhere All at Once": {
     "total_edits": 0,
@@ -164,34 +190,40 @@
     "last_edit": null
   },
   "The Batman (film)": {
-    "total_edits": 0,
+    "total_edits": 1,
     "bot_edits": 0,
-    "human_edits": 0,
-    "total_bytes_changed": 0,
-    "unique_users": [],
-    "unique_user_count": 0,
+    "human_edits": 1,
+    "total_bytes_changed": 12,
+    "unique_users": [
+      "IP75"
+    ],
+    "unique_user_count": 1,
     "alert_count": 0,
-    "last_edit": null
+    "last_edit": "2025-12-16T00:16:51.013Z"
   },
   "Spider-Man: No Way Home": {
-    "total_edits": 0,
+    "total_edits": 1,
     "bot_edits": 0,
-    "human_edits": 0,
-    "total_bytes_changed": 0,
-    "unique_users": [],
-    "unique_user_count": 0,
+    "human_edits": 1,
+    "total_bytes_changed": 2,
+    "unique_users": [
+      "CAJH"
+    ],
+    "unique_user_count": 1,
     "alert_count": 0,
-    "last_edit": null
+    "last_edit": "2025-12-16T02:18:50.180Z"
   },
   "Avengers: Endgame": {
-    "total_edits": 0,
+    "total_edits": 1,
     "bot_edits": 0,
-    "human_edits": 0,
-    "total_bytes_changed": 0,
-    "unique_users": [],
-    "unique_user_count": 0,
+    "human_edits": 1,
+    "total_bytes_changed": 2,
+    "unique_users": [
+      "CAJH"
+    ],
+    "unique_user_count": 1,
     "alert_count": 0,
-    "last_edit": null
+    "last_edit": "2025-12-16T02:09:05.518Z"
   },
   "Parasite (2019 film)": {
     "total_edits": 0,
@@ -264,24 +296,30 @@
     "last_edit": null
   },
   "T\u00e1r": {
-    "total_edits": 0,
-    "bot_edits": 0,
-    "human_edits": 0,
-    "total_bytes_changed": 0,
-    "unique_users": [],
-    "unique_user_count": 0,
-    "alert_count": 0,
-    "last_edit": null
+    "total_edits": 6,
+    "bot_edits": 1,
+    "human_edits": 5,
+    "total_bytes_changed": 84,
+    "unique_users": [
+      "Ezzex",
+      "SchlurcherBot",
+      "Hutch"
+    ],
+    "unique_user_count": 3,
+    "alert_count": 1,
+    "last_edit": "2025-12-16T07:20:46.492Z"
   },
   "Blonde (2022 film)": {
-    "total_edits": 0,
+    "total_edits": 1,
     "bot_edits": 0,
-    "human_edits": 0,
-    "total_bytes_changed": 0,
-    "unique_users": [],
-    "unique_user_count": 0,
+    "human_edits": 1,
+    "total_bytes_changed": 13,
+    "unique_users": [
+      "Newslinger"
+    ],
+    "unique_user_count": 1,
     "alert_count": 0,
-    "last_edit": null
+    "last_edit": "2025-12-16T03:52:13.979Z"
   },
   "Elvis (2022 film)": {
     "total_edits": 0,
@@ -294,24 +332,30 @@
     "last_edit": null
   },
   "Black Panther: Wakanda Forever": {
-    "total_edits": 0,
+    "total_edits": 1,
     "bot_edits": 0,
-    "human_edits": 0,
-    "total_bytes_changed": 0,
-    "unique_users": [],
-    "unique_user_count": 0,
+    "human_edits": 1,
+    "total_bytes_changed": 13,
+    "unique_users": [
+      "CAJH"
+    ],
+    "unique_user_count": 1,
     "alert_count": 0,
-    "last_edit": null
+    "last_edit": "2025-12-16T02:19:59.597Z"
   },
   "Guardians of the Galaxy Vol. 3": {
-    "total_edits": 0,
+    "total_edits": 4,
     "bot_edits": 0,
-    "human_edits": 0,
-    "total_bytes_changed": 0,
-    "unique_users": [],
-    "unique_user_count": 0,
-    "alert_count": 0,
-    "last_edit": null
+    "human_edits": 4,
+    "total_bytes_changed": 1181,
+    "unique_users": [
+      "Fiction Fanatic III",
+      "CAJH",
+      "Rtkat3"
+    ],
+    "unique_user_count": 3,
+    "alert_count": 1,
+    "last_edit": "2025-12-16T02:12:54.390Z"
   },
   "Mission: Impossible \u2013 Dead Reckoning": {
     "total_edits": 0,
@@ -324,14 +368,16 @@
     "last_edit": null
   },
   "The Super Mario Bros. Movie": {
-    "total_edits": 0,
+    "total_edits": 1,
     "bot_edits": 0,
-    "human_edits": 0,
-    "total_bytes_changed": 0,
-    "unique_users": [],
-    "unique_user_count": 0,
+    "human_edits": 1,
+    "total_bytes_changed": 4,
+    "unique_users": [
+      "ClarkTheMaker2"
+    ],
+    "unique_user_count": 1,
     "alert_count": 0,
-    "last_edit": null
+    "last_edit": "2025-12-15T23:40:59.928Z"
   },
   "Wonka (film)": {
     "total_edits": 0,
